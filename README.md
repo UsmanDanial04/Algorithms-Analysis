@@ -94,7 +94,7 @@ This project demonstrates how different **pathfinding algorithms** work by visua
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ahmadXplore/Algorithm-Analysis.git
+git clone https://github.com/UsmanDanial04/Algorithm-Analysis.git
 cd Algorithm-Analysis
 ```
 
