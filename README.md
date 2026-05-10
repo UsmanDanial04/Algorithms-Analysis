@@ -114,9 +114,9 @@ You are free to use, modify, and distribute it.
 
 ## 👤 Author
 
-### Muhammad Ahmad
+### Usman Danial
 📌 Aspiring Software Engineer | Python Developer | AI & Visualization Enthusiast
 
-🔗 LinkedIn: www.linkedin.com/in/muhammad-ahmad-23a3223a0 
+🔗 LinkedIn: www.linkedin.com/in/usman-danial-b4568b289 
 
 ⭐ If you like this project, don’t forget to star the repo!
